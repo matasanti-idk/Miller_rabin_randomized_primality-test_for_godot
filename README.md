@@ -9,3 +9,10 @@ https://www.cs.cornell.edu/courses/cs4820/2010sp/handouts/MillerRabin.pdf
 https://math.umd.edu/~immortal/ClassNotes/millerrabin.pdf
 if you want to learn more but you can't understand or read the source i will make a video later on explaing how it functions and why
 if you find any bugs or suggestions on how to improve the algorithm feedback is highly appreciated
+
+additional information:
+while the Miller rabis randomized prmality test is good 
+you have to know that their will be 2 types aviable for you depending on your needs
+deterministic: with a limit of 2^40 while the limit is 2^64 that would be an overkill
+2^40 is engough where errors are negligible with a chance of error to 2^-80(or 1 in 1,208,925,819,614,629,174,706,176 chances)
+Probabilistic: which has no limit but may give out false positives
