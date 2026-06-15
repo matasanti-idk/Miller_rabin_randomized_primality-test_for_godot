@@ -11,8 +11,8 @@ if you want to learn more but you can't understand or read the source i will mak
 if you find any bugs or suggestions on how to improve the algorithm feedback is highly appreciated
 
 additional information:
-while the Miller rabis randomized prmality test is good 
+while the Miller rabis randomized prmality test is good its inheranlty probabilistic 
 you have to know that their will be 2 types aviable for you depending on your needs
-deterministic: with a limit of 2^40 while the limit is 2^64 that would be an overkill
+deterministic: the limit is for any number 2^40 here. While the limit is any number under 2^64 that would be an overkill
 2^40 is engough where errors are negligible with a chance of error to 2^-80(or 1 in 1,208,925,819,614,629,174,706,176 chances)
 Probabilistic: which has no limit but may give out false positives
