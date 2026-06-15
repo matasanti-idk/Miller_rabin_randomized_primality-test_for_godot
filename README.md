@@ -3,3 +3,7 @@ lets you check for any given number if it's prime or composite and gives you the
 this is great for anything that need to check for primality and or change and fix the given number making this is
 great for dynamic coding, procedural generation, cryptography, and adaptive game mechanics.
 this can be used for non-comorcial or comorcial uses, but credits is appreciated
+
+if your interasted on knowing more about it check the sources used.
+https://www.cs.cornell.edu/courses/cs4820/2010sp/handouts/MillerRabin.pdf
+https://math.umd.edu/~immortal/ClassNotes/millerrabin.pdf
