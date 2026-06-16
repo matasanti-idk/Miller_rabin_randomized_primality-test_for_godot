@@ -5,6 +5,8 @@ great for dynamic coding, procedural generation, and adaptive game mechanics, bu
 like spliting a map into smaller chuncks by diving it to do multi threading. Its NOT recommended for normal use.
 this can be used for non-commercial or commercial uses, but credits is appreciated
 
+For godot 4.6.3+
+
 if your interasted on knowing more about it check the sources used.
 https://www.cs.cornell.edu/courses/cs4820/2010sp/handouts/MillerRabin.pdf
 https://math.umd.edu/~immortal/ClassNotes/millerrabin.pdf
