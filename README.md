@@ -17,8 +17,9 @@ if you find any bugs or suggestions on how to improve the algorithm feedback is 
 additional information:
 while the Miller rabis randomized prmality test is good its inheranlty probabilistic 
 you have to know that their will be 2 types aviable for you depending on your needs
-deterministic: the limit is for any number 2^40 here. While the limit is any number under 2^64 that would be an overkill
-2^40 is engough where errors are negligible with a chance of error to 2^-80(or 1 in 1,208,925,819,614,629,174,706,176 chances) 
+
+deterministic: the limit is for any number under 2^64 here. 
+
 Probabilistic: which has no limit but may give out false positives
 
 about the option to turn a rpime number into a composite you must know that the Miller Rabin randomized primality test only checks if a number is prime for this option the value of the prime number will be altterd to be composite so you will lose the orignal prime 
