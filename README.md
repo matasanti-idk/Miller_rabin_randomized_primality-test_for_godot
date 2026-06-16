@@ -12,6 +12,7 @@ https://www.cs.cornell.edu/courses/cs4820/2010sp/handouts/MillerRabin.pdf
 https://kconrad.math.uconn.edu/blurbs/ugradnumthy/millerrabin.pdf
 https://math.umd.edu/~immortal/ClassNotes/millerrabin.pdf
 https://homepages.math.uic.edu/~marker/math435/rm.pdf
+
 if you want to learn more but you can't understand or read the source i will make a video later on explaing how it functions and why
 and a detailed wiki on how the code works
 if you find any bugs or suggestions on how to improve the algorithm feedback is highly appreciated
